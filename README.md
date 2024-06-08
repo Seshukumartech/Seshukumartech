@@ -1,4 +1,4 @@
-<h1>Hi, I'm Seshu Kumar! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/rseshukumar/">Aspiring Cyber Security Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Seshu Kumar! <br/><a href="https://github.com/Seshukumartech">Designer</a>, <a href="https://www.linkedin.com/in/rseshukumar/">Aspiring Cyber Security Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -33,10 +33,10 @@
 [<img align="left" alt="SeshuKumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SeshuKumarr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[youtube]: https://www.youtube.com/@its_visual
+[instagram]: https://www.instagram.com/this_is_seshu/
+[linkedin]: https://linkedin.com/in/rseshukumar
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
